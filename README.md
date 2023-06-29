@@ -2,4 +2,4 @@
 An advanced DRF course from codio a playground for codio virtual enviroment
 ssssssssssss
 ssssasssssssssss
-sssssssssssssssssss
+ssssssssssssssssssss
